@@ -1,2 +1,2 @@
 # docker-cleanup
-Delete dangling Docker Images
+A batch script for windows to delete dangling Docker Images
